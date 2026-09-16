@@ -81,4 +81,8 @@ movie_booking_app/
 | GET | `/api/movies/<movie_id>` | Get movie details |
 | GET | `/api/showtimes/<movie_id>` | Get showtimes for a movie |
 | POST | `/api/bookings` | Create a validated booking |
+
+## Live Link - https://movie-booking-app-47bu.onrender.com/##
+
+
 | GET | `/api/bookings/<query>` | Find bookings by code, email, or phone |
